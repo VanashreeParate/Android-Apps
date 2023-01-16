@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Flipr</string>
+
+    <string name="facebook_app_id">1234</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+
+    <string name="dropdown">dropDownMenuExample</string>
+    <string-array name="indices">
+        <item>BSE</item>
+        <item>NSE</item>
+    </string-array>
+</resources>
